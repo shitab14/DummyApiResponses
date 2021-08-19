@@ -10,7 +10,7 @@
 					"tank_length_inch" : 6,
 					"tank_width_inch" : 30.2,
 					"tank_depth_inch" : 89.01,
-					"tank_capacity" : 1000.19,
+					"tank_capacity" : 1000.19
 				},
 				{
 					"tank_id": 100070,
@@ -19,7 +19,7 @@
 					"tank_length_inch" : 6,
 					"tank_width_inch" : 30.2,
 					"tank_depth_inch" : 89.01,
-					"tank_capacity" : 1000.19,
+					"tank_capacity" : 1000.19
 				}
 			]
 	}
