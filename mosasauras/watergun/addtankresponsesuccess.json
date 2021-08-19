@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"message": "Tank Successfully Created", 
+	"data": {
+		"tank_data": {
+			"tank_id": 100069,
+			"tank_name": "Tank Name"
+		}
+	}
+}
