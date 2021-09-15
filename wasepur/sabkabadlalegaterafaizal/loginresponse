@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"message": "Successfully Logged In", 
+	"data": {
+		"user_data": {
+			"user_id": 100069,
+			"user_photo": "https://media-exp1.licdn.com/dms/image/C5603AQE5NC3bCT_0tg/profile-displayphoto-shrink_800_800/0/1611770305483?e=1635984000&v=beta&t=ih4Uxp_ZI4VPaNRBe8o1-PiKMVxp2yDxKyaNIpsS5Uw",
+			"user_name": "Shitab API Data",
+			"user_designation": "Jr Engineer",
+			"user_department": "Marketing",
+      "user_contact": "01696969969"
+		},
+     "clock_in_data": {
+        "user_clocked_in": false,
+        "user_clocked_in_remotely": false,
+        "user_clocked_in_at": "",
+        "user_clocked_out": false,
+        "user_clocked_out_remotely": false,
+        "user_clocked_out_at": ""
+		}
+	}
+}
