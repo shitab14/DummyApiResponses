@@ -1,6 +1,6 @@
 {
 	"code": 400,
-	"message": "Failed", 
+	"message": "Failed to check in", 
 	"data": {
 		"clock_in_data": {
                 "user_clocked_in": true,
