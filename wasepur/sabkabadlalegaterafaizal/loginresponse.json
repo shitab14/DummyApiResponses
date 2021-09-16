@@ -12,9 +12,9 @@
       "user_contact": "01696969969"
 		},
      "clock_in_data": {
-        "user_clocked_in": false,
-        "user_clocked_in_remotely": false,
-        "user_clocked_in_at": "",
+        "user_clocked_in": true,
+"user_clocked_in_remotely": false,
+"user_clocked_in_at": "2021-09-13T04:03:07.000000Z",
         "user_clocked_out": false,
         "user_clocked_out_remotely": false,
         "user_clocked_out_at": ""
