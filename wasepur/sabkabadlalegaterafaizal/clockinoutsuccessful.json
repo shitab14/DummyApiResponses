@@ -1,5 +1,5 @@
 {
-	"code": 200,
+	"code": 400,
 	"message": "Successfully Checked In", 
 	"data": {
 		"clock_in_data": {
